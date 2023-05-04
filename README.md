@@ -19,7 +19,7 @@
 
 ## Distributed System
 
-All-Flash Array Key-Value Cache for Large Objects
+BigKV: All-Flash Array Key-Value Cache for Large Objects
 
 ## CXL
 
