@@ -26,3 +26,7 @@
 [Direct Access, High-Performance Memory Disaggregation with DirectCXL](https://www.usenix.org/conference/atc22/presentation/gouk)
 
 [Failure Tolerant Training with Persistent Memory Disaggregation over CXL](https://ieeexplore.ieee.org/document/10018437)
+
+
+## AI seminar
+[Primo: Practical Learning-Augmented Systems with Interpretable Models](https://www.usenix.org/conference/atc22/presentation/hu)
